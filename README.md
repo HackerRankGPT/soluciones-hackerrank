@@ -3,7 +3,7 @@
 </a>
 
 
-# Consigue todas las soluciones de HackerRank
+# Todas las soluciones de HackerRank
 
 ##### :fire: Hemos impulsado a <ins>**más de 3000 desarrolladores a conseguir empleo**</ins>.
 ##### :star: ¡Dale una estrella a nuestro GitHub, nos inspira a seguir adelante!
