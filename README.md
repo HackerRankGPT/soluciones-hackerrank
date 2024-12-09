@@ -1,5 +1,5 @@
 <a href="https://coderank.solutions/?s=github-repo-es">
-    <img src="https://app.coderank.solutions/logo.png" alt="Logotipo de Soluciones HackerRank" title="Soluciones HackerRank" align="right" height="50" />
+    <img src="https://app.coderank.solutions/img/logo-white.png" alt="Logotipo de Soluciones HackerRank" title="Soluciones HackerRank" align="right" height="50" />
 </a>
 
 
