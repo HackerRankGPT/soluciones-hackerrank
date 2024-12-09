@@ -25,7 +25,7 @@ https://github.com/HackerRankGPT/hackerrank-solutions/assets/172066169/3c4cb694-
 
 |Característica   | Explicación  |
 |---|---|
-|✅ Funciona a nivel del sistema operativo   |CodeRankGPT opera en PCs, Macs o sistemas Linux, permaneciendo completamente oculto para HackerRank. No se ejecuta en el navegador, por lo que el sistema de detección de trampas de HackerRank no puede detectarlo.   |
+|✅ Aislamiento estricto garantizado   |CodeRankGPT se ejecuta en tu navegador de forma aislada, gracias al sandboxing y la Política de Origen Común, impidiendo que HackerRank acceda a datos o detecte otras pestañas.   |
 |✅ Muestra la solución en otro dispositivo   |La solución se envía y muestra en el dispositivo que elijas (teléfono móvil, tableta u otro computador), lo que te mantiene seguro incluso si te piden compartir pantalla durante la entrevista.   |
 |✅ Sin copiar y pegar   | El sistema anti-trampas de HackerRank puede detectar contenidos en tu portapapeles si pegas código. Dado que la solución se muestra en un dispositivo aparte, puedes referenciarla manualmente sin ser detectado.  |
 |✅ Sin necesidad de cambiar de pestaña   | El cambio de pestañas durante una prueba puede ser visto como sospechoso. Con la solución en otro dispositivo, puedes consultarla discretamente sin cambiar de pestaña, evitando alertas.  |
